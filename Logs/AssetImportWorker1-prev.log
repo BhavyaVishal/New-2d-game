@@ -1,0 +1,138 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.746; Version 2009; 64bit' Language: 'en' Physical Memory: 3977 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\SHARMA\Documents\unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/SHARMA/Downloads/InputSystem_Warriors-master/InputSystem_Warriors-master/2d game
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59125
+Successfully changed project path to: C:/Users/SHARMA/Downloads/InputSystem_Warriors-master/InputSystem_Warriors-master/2d game
+C:/Users/SHARMA/Downloads/InputSystem_Warriors-master/InputSystem_Warriors-master/2d game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 320.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/SHARMA/Downloads/InputSystem_Warriors-master/InputSystem_Warriors-master/2d game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   10.18.10.4358
+Initialize mono
+Mono path[0] = 'C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006923 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 219.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.919 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004267 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 181.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.000 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.32 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2254.
+Total: 8.597300 ms (FindLiveObjects: 0.799400 ms CreateObjectMapping: 2.035500 ms MarkObjects: 5.555200 ms  DeleteObjects: 0.202400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/flag.png
+  artifactKey: Guid(d4b35b605f493f54f8ef3c2c0694e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flag.png using Guid(d4b35b605f493f54f8ef3c2c0694e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1626a333655eb073d56b69e827c31c0b') in 3.161412 seconds
+  Import took 3.296626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037628 seconds.
+  path: Assets/Untitled.png
+  artifactKey: Guid(9f60c82cbf6eb3444af2596e71153238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled.png using Guid(9f60c82cbf6eb3444af2596e71153238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7970be2dafd9937622d68c60d637e1') in 2.012007 seconds
+  Import took 2.059260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/sdd.png
+  artifactKey: Guid(00057f817ad976a49bb2abb6191d2417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sdd.png using Guid(00057f817ad976a49bb2abb6191d2417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44749eea635a78941713eca128cf9c8') in 2.492595 seconds
+  Import took 2.552240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006080 seconds.
+  path: Assets/over.png
+  artifactKey: Guid(c938840681a13a04d8e2a6f3f9d72b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/over.png using Guid(c938840681a13a04d8e2a6f3f9d72b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff1959fbed4907aaac7d5160d3aff33') in 2.203694 seconds
+  Import took 2.240901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.334600 seconds.
+  path: Assets/playercontrol.cs
+  artifactKey: Guid(2f413915abedacc43b8728de7ba1b190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playercontrol.cs using Guid(2f413915abedacc43b8728de7ba1b190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e48f5f06542889788c7a5dfa489383') in 0.060404 seconds
+  Import took 0.070787 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.350111 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.120 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 5.751600 ms (FindLiveObjects: 0.757100 ms CreateObjectMapping: 0.353000 ms MarkObjects: 4.594700 ms  DeleteObjects: 0.042800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
